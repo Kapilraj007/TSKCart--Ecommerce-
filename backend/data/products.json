@@ -1,0 +1,265 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 19990,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+        "price": 1500.35,
+        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 44000.57,
+        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 25000.45,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/6.webp"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": 7670.32,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/7.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+        "price": 1025.46,
+        "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Campus Men's Maxico Running Shoes",
+        "price": 1000.12,
+        "description": "The high raised back cover with extra padding.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "boAt TRebel Rockerz 235 V2 ",
+        "price": 1078.12,
+        "description": "Fast Charginh, IPX5 sweat & water resistance",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/8.avif"
+            },
+            {
+                "image": "/images/products/9.webp"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "boAt Rockerz 195 Pro",
+        "price": 1188.12,
+        "description": "Nonstop music upto 15 Hours",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/10.webp"
+            },
+            {
+                "image": "/images/products/11.webp"
+            },
+            {
+                "image": "/images/products/12.webp"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "boAt Airdopes 131 Wirless earbuds",
+        "price": 15787.12,
+        "description": "Nonstop music upto 60 hrs & Design for music lovers",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/13.webp"
+            },
+            {
+                "image": "/images/products/14.webp"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Boat",
+        "stock": 5,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Nivia Airstrike Football Stud for Kids shoes",
+        "price": 2500,
+        "description": "DIRECT INJECTION MOLDING TECHNOLOGY, which makes AIRSRIKE FOOTBALL STUD a single component shoe. Lacing system works to deliver an anatomically correct fit A moulded Removable E.VA sockliner exists as an extra layer of plush,step-in comfort Pre-molded TPU Light weight insole provide more comfort and grip. High Shear strength TPU sole deliver superior stability and traction.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/18.jpg"
+            },
+            {
+                "image": "/images/products/20.jpg"
+            },
+            {
+                "image": "/images/products/19.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 3,
+        "numOfReviews": 4,
+        "reviews": []
+    },
+    {
+        "name": "Vector X Blaze-2.0 Football Shoes ",
+        "price": 959,
+       "description": "Outer Material : Synthetic Leather Sole Material : TPU Padded ankle collar, Padded Footbed, Cushioned, Full lace fastening.Synthetic leather upper provides durability and a soft touch.In-Package contents : 1pair of Shoes",
+
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/21.jpg"
+            },
+            {
+                "image": "/images/products/23.jpg"
+            },
+            {
+                "image": "/images/products/22.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Niva",
+        "stock": 4,
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "GM  Cricket Bat Size-4",
+        "price": 7381,
+       "description": "Blade Specs: Material - English willow / wood | Grade: Two | No. of Grains: Minimum 6-7 grains | Light Weight – 850 - 900 grams. Bat Features: Full Profile – Massive edges | Pronounced bow – Improved pick-up | Ideal for Leather Cricket ball | Handcrafted by Master Craftsman in India. Extended Power Zone: Monstrous Hitting Area | Sweet Spot: Mid to low | | Knocked-in & Ready to play | Designed for the powerful and dominating strokes.Handle Specs: Treble Spring Singapore Cane Handle for shock absorption on impact with ball. Laws of Cricket - Conforms to MCC LAW 5 for maximum approved bat size.",
+
+        "ratings":4.5,
+        "images": [
+            {
+                "image": "/images/products/24.jpg"
+            },
+            {
+                "image": "/images/products/26.jpg"
+            },
+            {
+                "image": "/images/products/25.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Gm",
+        "stock": 2,
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "MRF 1CT99110 Cricket Bat",
+        "price": 16237,
+       "description": "Virat Kohli range ,Weight : 1180-1250 grams , Handle Size: Short HandleMade from worlds top grade English willowThe bat has classic players profile with a big swell and great pick upPrototype of the MRF brand ambassadors bat Material: English-willow",
+        "ratings":5,
+        "images": [
+            {
+                "image": "/images/products/27.jpg"
+            },
+            {
+                "image": "/images/products/28.jpg"
+            }
+            
+        ],
+        "category": "Sports",
+        "seller": "MRF",
+        "stock": 1,
+        "numOfReviews": 15,
+        "reviews": []
+    }
+]
