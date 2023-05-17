@@ -13,6 +13,35 @@ body {
 ::-webkit-scrollbar-track {
   background-color: #f5f5f5;
 }
+.Button{
+  position: relative;
+  font-size: 1.7em;
+  padding: 0.5em 1.2em !important;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  color: #ffffff !important;
+}
+.Button::before{
+  position: absolute !important;
+  content: ' ';
+  height: 0;
+  width: 0;
+  top: 0;
+  left: 0;
+  background: linear-gradient(135deg,#212121 0%, #212121 50%, #efa442 50%, #fa9c23 60%) !important;
+  border-radius: 0 0.5em 0 !important;
+  box-shadow: 0.2em 0.2em 0.2em #0000004d !important;
+  transition: 0.3s;
+}
+.Button:hover::before{
+  width: 2.4em;
+  height: 2.4em;
+}
+.Button:active{
+  box-shadow: 0.2em 0.2em 0.2em #0000004d !important;
+  transform: translate(0%em, 0%em);
+}
 
 ::-webkit-scrollbar {
   width: 8px;
